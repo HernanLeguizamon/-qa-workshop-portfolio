@@ -1,3 +1,3 @@
 # -qa-workshop-portfolio
 
-"Mi primera edicion"
+"Portafolio de Hernan Leguizamon para el curso de Semillero QA - Ingeniero de Pruebas"
